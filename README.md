@@ -452,23 +452,11 @@ Indian Institute of Technology (IIT), Kharagpur
 
 ---
 
-# 📬 Contact
+# 📬 Details
 
 **Pranav Mishra**
 
 📧 443pranavmishra@gmail.com
-
-LinkedIn
-
-```
-https://linkedin.com/in/your-profile
-```
-
-GitHub
-
-```
-https://github.com/yourusername
-```
 
 ---
 
